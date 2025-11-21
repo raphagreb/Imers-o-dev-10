@@ -1,0 +1,1204 @@
+[
+  {
+    "nome": "Elden Ring",
+    "descricao": "Um RPG de Ação em mundo aberto massivo ambientado no reino de Limgrave, conhecido por sua dificuldade e exploração profunda.",
+    "data_criacao": "2022",
+    "link": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+    "tags": [
+      "Souls-like",
+      "RPG",
+      "Mundo Aberto",
+      "Fantasia Sombria"
+    ]
+  },
+  {
+    "nome": "Cyberpunk 2077",
+    "descricao": "RPG de ação futurista em primeira pessoa ambientado na distópica Night City, onde os jogadores assumem o papel de um mercenário.",
+    "data_criacao": "2020",
+    "link": "https://www.cyberpunk.net/",
+    "tags": [
+      "Sci-Fi",
+      "Ação",
+      "RPG",
+      "Distopia"
+    ]
+  },
+  {
+    "nome": "Valorant",
+    "descricao": "Um shooter tático 5v5 baseado em personagens, que combina jogabilidade de tiro de precisão com habilidades únicas de agentes.",
+    "data_criacao": "2020",
+    "link": "https://playvalorant.com/pt-br/",
+    "tags": [
+      "FPS",
+      "Competitivo",
+      "E-sports",
+      "Tiro Tático"
+    ]
+  },
+  {
+    "nome": "Apex Legends",
+    "descricao": "Battle Royale gratuito com esquadrões de três pessoas, cada um usando lendas com habilidades distintas em mapas em constante mudança.",
+    "data_criacao": "2019",
+    "link": "https://www.ea.com/pt-br/games/apex-legends",
+    "tags": [
+      "Battle Royale",
+      "FPS",
+      "Multiplayer",
+      "Looter Shooter"
+    ]
+  },
+  {
+    "nome": "Minecraft",
+    "descricao": "Um jogo de sandbox focado em construção, exploração e sobrevivência, permitindo aos jogadores criar mundos inteiros usando blocos.",
+    "data_criacao": "2011",
+    "link": "https://www.minecraft.net/pt-br",
+    "tags": [
+      "Sandbox",
+      "Construção",
+      "Sobrevivência",
+      "Criatividade"
+    ]
+  },
+  {
+    "nome": "The Legend of Zelda: Tears of the Kingdom",
+    "descricao": "Sequência de Breath of the Wild, oferecendo um mundo aberto ainda mais vasto e novos poderes de construção e fusão para Link.",
+    "data_criacao": "2023",
+    "link": "https://www.nintendo.com/pt-br/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/",
+    "tags": [
+      "Aventura",
+      "Ação",
+      "Mundo Aberto",
+      "Exploração"
+    ]
+  },
+  {
+    "nome": "Baldur's Gate 3",
+    "descricao": "Um RPG tático e narrativo baseado em turnos ambientado no universo de Dungeons & Dragons, com foco em escolhas complexas e companheiros memoráveis.",
+    "data_criacao": "2023",
+    "link": "https://baldursgate3.game/pt-br/",
+    "tags": [
+      "CRPG",
+      "Turn-Based",
+      "Fantasia",
+      "Narrativa"
+    ]
+  },
+  {
+    "nome": "Hades",
+    "descricao": "Um roguelike de ação onde o jogador é Zagreus, príncipe do Submundo, que tenta escapar do reino de seu pai, Hades.",
+    "data_criacao": "2020",
+    "link": "https://www.supergiantgames.com/games/hades/",
+    "tags": [
+      "Roguelike",
+      "Indie",
+      "Mitologia",
+      "Hack and Slash"
+    ]
+  },
+  {
+    "nome": "Destiny 2",
+    "descricao": "Um looter shooter de ficção científica com elementos de MMO, focado em missões cooperativas e PvP intenso em um universo compartilhado.",
+    "data_criacao": "2017",
+    "link": "https://www.bungie.net/7/pt-br/Destiny2/Lightfall",
+    "tags": [
+      "Looter Shooter",
+      "MMO",
+      "Ficção Científica",
+      "Co-op"
+    ]
+  },
+  {
+    "nome": "Helldivers 2",
+    "descricao": "Um shooter cooperativo em terceira pessoa onde os jogadores se unem para espalhar a 'Democracia Gerenciada' pela galáxia contra hordas alienígenas.",
+    "data_criacao": "2024",
+    "link": "https://www.playstation.com/pt-br/games/helldivers-2/",
+    "tags": [
+      "Co-op",
+      "Terceira Pessoa",
+      "Tiro",
+      "Ação"
+    ]
+  },
+  {
+    "nome": "Resident Evil 4 Remake",
+    "descricao": "Reimaginação moderna do clássico de survival horror, com gráficos atualizados e jogabilidade de tiro em terceira pessoa mais fluida.",
+    "data_criacao": "2023",
+    "link": "https://www.residentevil.com/re4/pt-br/",
+    "tags": [
+      "Survival Horror",
+      "Remake",
+      "Ação",
+      "Terceira Pessoa"
+    ]
+  },
+  {
+    "nome": "Stardew Valley",
+    "descricao": "Um RPG de simulação de vida e fazenda onde os jogadores restauram uma fazenda abandonada e interagem com a comunidade local.",
+    "data_criacao": "2016",
+    "link": "https://www.stardewvalley.net/",
+    "tags": [
+      "Simulação",
+      "Indie",
+      "RPG",
+      "Fazenda",
+      "Relaxante"
+    ]
+  },
+  {
+    "nome": "League of Legends",
+    "descricao": "O MOBA mais popular do mundo, onde duas equipes de cinco campeões lutam para destruir o Nexus inimigo usando estratégia e coordenação.",
+    "data_criacao": "2009",
+    "link": "https://www.leagueoflegends.com/pt-br/",
+    "tags": [
+      "MOBA",
+      "Estratégia",
+      "Competitivo",
+      "E-sports"
+    ]
+  },
+  {
+    "nome": "Starfield",
+    "descricao": "Um épico RPG de ficção científica ambientado no espaço, permitindo aos jogadores explorar mais de mil planetas e personalizar suas naves espaciais.",
+    "data_criacao": "2023",
+    "link": "https://bethesda.net/pt-br/game/starfield",
+    "tags": [
+      "RPG",
+      "Ficção Científica",
+      "Exploração",
+      "Mundo Aberto"
+    ]
+  },
+  {
+    "nome": "Diablo IV",
+    "descricao": "Um RPG de Ação focado em dungeon crawling, onde os jogadores enfrentam hordas demoníacas em busca de itens lendários (loot).",
+    "data_criacao": "2023",
+    "link": "https://diablo4.blizzard.com/pt-br/",
+    "tags": [
+      "Hack and Slash",
+      "RPG de Ação",
+      "Loot",
+      "Dungeon Crawler"
+    ]
+  },
+  {
+    "nome": "Hollow Knight",
+    "descricao": "Um aclamado Metroidvania indie com arte desenhada à mão, focado em exploração e combate desafiador em um vasto mundo subterrâneo.",
+    "data_criacao": "2017",
+    "link": "https://www.hollowknight.com/",
+    "tags": [
+      "Metroidvania",
+      "Indie",
+      "Platformer",
+      "Exploração"
+    ]
+  },
+  {
+    "nome": "Call of Duty: Modern Warfare III",
+    "descricao": "O mais recente título da franquia FPS militar, oferecendo campanha cinematográfica, multiplayer tático e um modo zumbi em mundo aberto.",
+    "data_criacao": "2023",
+    "link": "https://www.callofduty.com/br/pt/modernwarfare3",
+    "tags": [
+      "FPS",
+      "Militar",
+      "Multiplayer",
+      "Ação Rápida"
+    ]
+  },
+  {
+    "nome": "Final Fantasy XVI",
+    "descricao": "RPG de Ação focado em combate em tempo real e uma narrativa madura, ambientado no reino de Valisthea e seus poderosos Eikons.",
+    "data_criacao": "2023",
+    "link": "https://www.finalfantasyxvi.com/br/",
+    "tags": [
+      "Ação",
+      "RPG",
+      "Fantasia",
+      "Narrativa Épica"
+    ]
+  },
+  {
+    "nome": "Rocket League",
+    "descricao": "Futebol com carros movidos a foguetes, combinando física de direção e mecânicas aéreas complexas em partidas multiplayer competitivas.",
+    "data_criacao": "2015",
+    "link": "https://www.rocketleague.com/",
+    "tags": [
+      "Esportes",
+      "Arcade",
+      "Multiplayer",
+      "Competitivo"
+    ]
+  },
+  {
+    "nome": "Palworld",
+    "descricao": "Jogo de sobrevivência e criação onde os jogadores coletam criaturas misteriosas ('Pals'), usam-nas em combate e as colocam para trabalhar.",
+    "data_criacao": "2024",
+    "link": "https://www.palworldgame.com/",
+    "tags": [
+      "Sobrevivência",
+      "Criação",
+      "Mundo Aberto",
+      "Co-op"
+    ]
+  },
+  {
+    "nome": "Sea of Thieves",
+    "descricao": "Jogo de aventura multiplayer de pirataria em mundo compartilhado, onde os jogadores navegam, buscam tesouros e enfrentam outros navios.",
+    "data_criacao": "2018",
+    "link": "https://www.seaofthieves.com/",
+    "tags": [
+      "Aventura",
+      "Co-op",
+      "Mundo Compartilhado",
+      "Piratas"
+    ]
+  },
+  {
+    "nome": "Ghost of Tsushima",
+    "descricao": "Aventura de ação em mundo aberto onde o jogador assume o papel de Jin Sakai, um samurai lutando para proteger a ilha de Tsushima da invasão mongol.",
+    "data_criacao": "2020",
+    "link": "https://www.playstation.com/pt-br/games/ghost-of-tsushima/",
+    "tags": [
+      "Samurai",
+      "Ação",
+      "Mundo Aberto",
+      "Histórico"
+    ]
+  },
+  {
+    "nome": "Tekken 8",
+    "descricao": "O mais recente título da icônica série de jogos de luta 3D, apresentando novos mecanismos de agressão e visuais de última geração.",
+    "data_criacao": "2024",
+    "link": "https://tk8.tekken-official.jp/pt-br/",
+    "tags": [
+      "Luta",
+      "Arcade",
+      "Competitivo",
+      "3D"
+    ]
+  },
+  {
+    "nome": "Horizon Forbidden West",
+    "descricao": "Sequência do RPG de ação em mundo aberto que acompanha Aloy em sua jornada para descobrir a fonte de uma praga misteriosa que ameaça a Terra.",
+    "data_criacao": "2022",
+    "link": "https://www.playstation.com/pt-br/games/horizon-forbidden-west/",
+    "tags": [
+      "RPG de Ação",
+      "Mundo Aberto",
+      "Pós-Apocalíptico",
+      "Ficção Científica"
+    ]
+  },
+  {
+    "nome": "Forza Motorsport",
+    "descricao": "Simulador de corrida focado no realismo da pista, na construção de carros e em uma experiência multiplayer intensa e desafiadora.",
+    "data_criacao": "2023",
+    "link": "https://forzamotorsport.net/",
+    "tags": [
+      "Simulação",
+      "Corrida",
+      "Automobilismo",
+      "Competitivo",
+      "Realismo"
+    ]
+  },
+  {
+    "nome": "Genshin Impact",
+    "descricao": "Um RPG de ação de mundo aberto gratuito com um sistema de combate baseado em elementos e exploração vasta, utilizando um modelo gacha.",
+    "data_criacao": "2020",
+    "link": "https://genshin.hoyoverse.com/",
+    "tags": [
+      "RPG de Ação",
+      "Mundo Aberto",
+      "Gacha",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "Overwatch 2",
+    "descricao": "Um jogo de tiro heroico em equipe 5v5 focado em objetivos, com uma grande variedade de heróis com habilidades únicas.",
+    "data_criacao": "2022",
+    "link": "https://overwatch.blizzard.com/pt-br/",
+    "tags": [
+      "FPS",
+      "Hero Shooter",
+      "Competitivo",
+      "Esports"
+    ]
+  },
+  {
+    "nome": "God of War Ragnarök",
+    "descricao": "A épica conclusão da saga Nórdica de Kratos e Atreus, focada em combate visceral e narrativa cinematográfica.",
+    "data_criacao": "2022",
+    "link": "https://www.playstation.com/pt-br/games/god-of-war-ragnarok/",
+    "tags": [
+      "Ação",
+      "Aventura",
+      "Narrativa",
+      "Exclusivo"
+    ]
+  },
+  {
+    "nome": "Red Dead Redemption 2",
+    "descricao": "Um vasto épico de mundo aberto ambientado no Velho Oeste, seguindo a história de Arthur Morgan e a gangue Van der Linde.",
+    "data_criacao": "2018",
+    "link": "https://www.rockstargames.com/reddeadredemption2",
+    "tags": [
+      "Mundo Aberto",
+      "Ação",
+      "Western",
+      "Narrativa Imersiva"
+    ]
+  },
+  {
+    "nome": "Monster Hunter Rise",
+    "descricao": "Jogo de caça cooperativo onde os jogadores rastreiam e abatem monstros gigantescos usando um arsenal diversificado de armas.",
+    "data_criacao": "2021",
+    "link": "https://www.monsterhunter.com/rise/br/",
+    "tags": [
+      "RPG de Ação",
+      "Co-op",
+      "Caça",
+      "Progressão"
+    ]
+  },
+  {
+    "nome": "Animal Crossing: New Horizons",
+    "descricao": "Simulador de vida fofo e relaxante, onde os jogadores constroem uma ilha paradisíaca e interagem com moradores animais.",
+    "data_criacao": "2020",
+    "link": "https://www.nintendo.com/pt-br/store/products/animal-crossing-new-horizons-switch/",
+    "tags": [
+      "Simulação de Vida",
+      "Casual",
+      "Construção",
+      "Social"
+    ]
+  },
+  {
+    "nome": "Deathloop",
+    "descricao": "Um jogo de tiro em primeira pessoa que coloca dois assassinos presos em um loop temporal, exigindo que o jogador elimine oito alvos antes que o dia reinicie.",
+    "data_criacao": "2021",
+    "link": "https://bethesda.net/pt-BR/game/deathloop",
+    "tags": [
+      "FPS",
+      "Immersive Sim",
+      "Loop Temporal",
+      "Infiltração"
+    ]
+  },
+  {
+    "nome": "Metroid Dread",
+    "descricao": "Aventua de ação e plataforma 2D que marca o retorno de Samus Aran, focando em exploração tensa e combate rápido contra inimigos robóticos E.M.M.I.",
+    "data_criacao": "2021",
+    "link": "https://www.nintendo.com/pt-br/store/products/metroid-dread-switch/",
+    "tags": [
+      "Metroidvania",
+      "Plataforma",
+      "Ação",
+      "Exploração"
+    ]
+  },
+  {
+    "nome": "Marvel's Spider-Man 2",
+    "descricao": "O mais recente jogo de super-heróis de mundo aberto, onde Peter Parker e Miles Morales enfrentam a ameaça de Kraven e Venom em Nova York.",
+    "data_criacao": "2023",
+    "link": "https://www.playstation.com/pt-br/games/marvels-spider-man-2/",
+    "tags": [
+      "Ação",
+      "Mundo Aberto",
+      "Super-Herói",
+      "Exclusivo"
+    ]
+  },
+  {
+    "nome": "Doom Eternal",
+    "descricao": "Um FPS frenético e brutal focado na 'dança do combate', onde o Slayer deve gerenciar recursos ao mutilar demônios.",
+    "data_criacao": "2020",
+    "link": "https://bethesda.net/pt-BR/game/doom-eternal",
+    "tags": [
+      "FPS",
+      "Gore",
+      "Ação Rápida",
+      "Combate Arenoso"
+    ]
+  },
+  {
+    "nome": "It Takes Two",
+    "descricao": "Um jogo de plataforma e aventura focado inteiramente na jogabilidade cooperativa, seguindo um casal à beira do divórcio transformado em bonecos.",
+    "data_criacao": "2021",
+    "link": "https://www.ea.com/pt-br/games/it-takes-two",
+    "tags": [
+      "Co-op",
+      "Plataforma",
+      "Aventura",
+      "Inovador"
+    ]
+  },
+  {
+    "nome": "Disco Elysium - The Final Cut",
+    "descricao": "Um RPG inovador com foco extremo em diálogo e decisões narrativas, onde você interpreta um detetive amnésico resolvendo um assassinato.",
+    "data_criacao": "2019",
+    "link": "https://discoelysium.com/",
+    "tags": [
+      "RPG",
+      "Narrativa",
+      "Detetive",
+      "Indie"
+    ]
+  },
+  {
+    "nome": "Xenoblade Chronicles 3",
+    "descricao": "Um JRPG massivo com um vasto mundo, sistema de combate complexo e uma história épica sobre dois países em guerra.",
+    "data_criacao": "2022",
+    "link": "https://www.nintendo.com/pt-br/store/products/xenoblade-chronicles-3-switch/",
+    "tags": [
+      "JRPG",
+      "Mundo Aberto",
+      "Narrativa",
+      "Combate em Tempo Real"
+    ]
+  },
+  {
+    "nome": "Control",
+    "descricao": "Ação e aventura em terceira pessoa ambientada em um mundo sobrenatural onde a protagonista Jesse Faden usa habilidades telecinéticas em uma agência secreta.",
+    "data_criacao": "2019",
+    "link": "https://www.remedygames.com/games/control/",
+    "tags": [
+      "Ação",
+      "Supernatural",
+      "Terceira Pessoa",
+      "Metroidvania 3D"
+    ]
+  },
+  {
+    "nome": "Street Fighter 6",
+    "descricao": "O mais recente título da icônica franquia de luta, introduzindo novos mecânicos como o Drive System e um vasto modo de história de mundo aberto (World Tour).",
+    "data_criacao": "2023",
+    "link": "https://www.streetfighter.com/6/pt-br/",
+    "tags": [
+      "Luta",
+      "Esports",
+      "Arcade",
+      "Competitivo"
+    ]
+  },
+  {
+    "nome": "Grounded",
+    "descricao": "Um jogo de sobrevivência cooperativo onde os jogadores encolhem ao tamanho de uma formiga e devem sobreviver no quintal hostil, construindo bases e explorando.",
+    "data_criacao": "2022",
+    "link": "https://grounded.obsidian.net/",
+    "tags": [
+      "Sobrevivência",
+      "Co-op",
+      "Construção de Base",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "New World",
+    "descricao": "Um MMORPG de fantasia ambientado na ilha de Aeternum, focado em combate de ação, guerra de facções e crafting profundo.",
+    "data_criacao": "2021",
+    "link": "https://www.newworld.com/",
+    "tags": [
+      "MMORPG",
+      "Mundo Aberto",
+      "Ação",
+      "PvP em Massa"
+    ]
+  },
+  {
+    "nome": "Dying Light 2 Stay Human",
+    "descricao": "Ação e sobrevivência em primeira pessoa com parkour e combate corpo a corpo intenso contra hordas de infectados em uma cidade pós-apocalíptica.",
+    "data_criacao": "2022",
+    "link": "https://dyinglight2.com/",
+    "tags": [
+      "Survival Horror",
+      "Parkour",
+      "Mundo Aberto",
+      "RPG de Ação"
+    ]
+  },
+  {
+    "nome": "Lies of P",
+    "descricao": "Um RPG de Ação no estilo 'Souls-like' baseado na releitura sombria do conto de Pinóquio, apresentando combate técnico e sistemas de modificação de armas.",
+    "data_criacao": "2023",
+    "link": "https://www.liesofp.com/",
+    "tags": [
+      "Soulslike",
+      "RPG de Ação",
+      "Gótico",
+      "Desafiador"
+    ]
+  },
+  {
+    "nome": "Hogwarts Legacy",
+    "descricao": "Um RPG de ação de mundo aberto ambientado no universo Harry Potter, permitindo aos jogadores frequentar Hogwarts no século XIX e explorar os arredores.",
+    "data_criacao": "2023",
+    "link": "https://www.hogwartslegacy.com/br",
+    "tags": [
+      "RPG",
+      "Mundo Aberto",
+      "Fantasia",
+      "Magia"
+    ]
+  },
+  {
+    "nome": "Hitman 3 (World of Assassination)",
+    "descricao": "Um jogo furtivo de sandbox onde o Agente 47 viaja pelo mundo para executar alvos de maneira criativa e disfarçada.",
+    "data_criacao": "2021",
+    "link": "https://www.ioi.dk/hitman-3/",
+    "tags": [
+      "Stealth",
+      "Sandbox",
+      "Infiltração",
+      "Puzzle"
+    ]
+  },
+  {
+    "nome": "Rainbow Six Siege",
+    "descricao": "Um jogo de tiro tático baseado em esquadrões 5v5, focado em destruição ambiental e planejamento estratégico em operações antiterroristas.",
+    "data_criacao": "2015",
+    "link": "https://www.ubisoft.com/en-us/game/rainbow-six/siege",
+    "tags": [
+      "FPS Tático",
+      "Esports",
+      "Destruição",
+      "Competitivo"
+    ]
+  },
+  {
+    "nome": "Gears 5",
+    "descricao": "Um shooter em terceira pessoa com sistema de cobertura intenso, seguindo Kait Diaz em uma jornada para descobrir a origem da Horda Swarm.",
+    "data_criacao": "2019",
+    "link": "https://www.gearsofwar.com/",
+    "tags": [
+      "Terceira Pessoa",
+      "Shooter Tático",
+      "Co-op",
+      "Ação"
+    ]
+  },
+  {
+    "nome": "Persona 5 Royal",
+    "descricao": "Um JRPG que combina simulação social na vida de um estudante japonês com exploração de masmorras e combate por turnos contra sombras.",
+    "data_criacao": "2019",
+    "link": "https://atlus.com/p5r/",
+    "tags": [
+      "JRPG",
+      "Simulação Social",
+      "Combate por Turnos",
+      "Narrativa"
+    ]
+  },
+  {
+    "nome": "Sons of the Forest",
+    "descricao": "Sequência do popular jogo de terror e sobrevivência, onde os jogadores são enviados a uma ilha remota para encontrar um bilionário desaparecido, enfrentando canibais mutantes.",
+    "data_criacao": "2024",
+    "link": "https://endnightgames.com/",
+    "tags": [
+      "Sobrevivência",
+      "Terror",
+      "Mundo Aberto",
+      "Construção"
+    ]
+  },
+  {
+    "nome": "Counter-Strike 2",
+    "descricao": "A mais recente iteração do icônico jogo de tiro tático em primeira pessoa, agora rodando na Source 2.",
+    "data_criacao": "2023",
+    "link": "https://store.steampowered.com/app/730/CounterStrike_2/",
+    "tags": [
+      "FPS",
+      "Tático",
+      "Esports",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "Grand Theft Auto V",
+    "descricao": "Um épico de mundo aberto onde três criminosos interligados realizam assaltos audaciosos em Los Santos.",
+    "data_criacao": "2013",
+    "link": "https://www.rockstargames.com/gta-v",
+    "tags": [
+      "Ação-Aventura",
+      "Mundo Aberto",
+      "Sandbox",
+      "Crime"
+    ]
+  },
+  {
+    "nome": "The Witcher 3: Wild Hunt",
+    "descricao": "Geralt de Rívia busca sua filha adotiva Ciri em um vasto mundo de fantasia atormentado pela guerra e monstros.",
+    "data_criacao": "2015",
+    "link": "https://www.thewitcher.com/br/pt-br/",
+    "tags": [
+      "RPG",
+      "Mundo Aberto",
+      "Fantasia",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "EA Sports FC 24",
+    "descricao": "O sucessor da franquia FIFA, oferecendo simulação de futebol com inovações na jogabilidade e modos de carreira e Ultimate Team.",
+    "data_criacao": "2023",
+    "link": "https://www.ea.com/pt-br/games/ea-sports-fc/fc-24",
+    "tags": [
+      "Esportes",
+      "Simulação",
+      "Futebol",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "Assassin's Creed Valhalla",
+    "descricao": "Explore a Inglaterra da Era Viking como Eivor, liderando seu clã para estabelecer um novo lar através de saques e batalhas.",
+    "data_criacao": "2020",
+    "link": "https://www.ubisoft.com/en-us/game/assassins-creed/valhalla",
+    "tags": [
+      "RPG de Ação",
+      "Mundo Aberto",
+      "Histórico",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "Battlefield 2042",
+    "descricao": "Um retorno à guerra total e icônica da franquia, apresentando batalhas massivas de 128 jogadores em mapas dinâmicos.",
+    "data_criacao": "2021",
+    "link": "https://www.ea.com/games/battlefield/battlefield-2042",
+    "tags": [
+      "FPS",
+      "Guerra",
+      "Multiplayer",
+      "Ação"
+    ]
+  },
+  {
+    "nome": "Halo Infinite",
+    "descricao": "O Master Chief retorna para confrontar os Banidos no maior e mais aberto mapa de Halo já criado.",
+    "data_criacao": "2021",
+    "link": "https://www.halowaypoint.com/en-us/games/halo-infinite",
+    "tags": [
+      "FPS",
+      "Ficção Científica",
+      "Mundo Aberto",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "Sekiro: Shadows Die Twice",
+    "descricao": "Um intenso jogo de ação focado em combate de espadas, onde você assume o papel de um shinobi desonrado no Japão Sengoku.",
+    "data_criacao": "2019",
+    "link": "https://www.sekirothegame.com/",
+    "tags": [
+      "Ação",
+      "Soulslike",
+      "Japão Feudal",
+      "Dificuldade Elevada"
+    ]
+  },
+  {
+    "nome": "Terraria",
+    "descricao": "Um sandbox 2D focado em exploração, construção, artesanato, combate e mineração em mundos gerados proceduralmente.",
+    "data_criacao": "2011",
+    "link": "https://terraria.org/",
+    "tags": [
+      "Sandbox",
+      "Sobrevivência",
+      "Exploração",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "Factorio",
+    "descricao": "Construa e mantenha fábricas automatizadas, pesquisando tecnologias e defendendo sua criação contra nativos hostis.",
+    "data_criacao": "2020",
+    "link": "https://www.factorio.com/",
+    "tags": [
+      "Estratégia",
+      "Simulação",
+      "Construção de Fábricas",
+      "Logística"
+    ]
+  },
+  {
+    "nome": "Subnautica",
+    "descricao": "Você cai em um mundo oceânico alienígena e deve explorar, construir bases e sobreviver aos perigos das profundezas.",
+    "data_criacao": "2018",
+    "link": "https://unknownworlds.com/subnautica/",
+    "tags": [
+      "Sobrevivência",
+      "Exploração",
+      "Mundo Aberto",
+      "Ficção Científica"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "O principal jogo de sobrevivência hardcore, onde a única regra é sobreviver aos elementos, aos animais e a outros jogadores.",
+    "data_criacao": "2018",
+    "link": "https://rust.facepunch.com/",
+    "tags": [
+      "Sobrevivência",
+      "Multiplayer",
+      "Mundo Aberto",
+      "PvP"
+    ]
+  },
+  {
+    "nome": "Warframe",
+    "descricao": "Um RPG de ação online focado em ninjas espaciais cibernéticos, oferecendo combate rápido e intensa customização.",
+    "data_criacao": "2013",
+    "link": "https://www.warframe.com/",
+    "tags": [
+      "Ação",
+      "Co-op",
+      "RPG",
+      "Ficção Científica"
+    ]
+  },
+  {
+    "nome": "Phasmophobia",
+    "descricao": "Um jogo de terror psicológico cooperativo onde você e sua equipe de investigadores caçam fantasmas em locais assombrados.",
+    "data_criacao": "2020",
+    "link": "https://store.steampowered.com/app/739630/Phasmophobia/",
+    "tags": [
+      "Terror",
+      "Co-op",
+      "Investigação",
+      "Realidade Virtual"
+    ]
+  },
+  {
+    "nome": "Among Us",
+    "descricao": "Um jogo social de dedução onde tripulantes tentam identificar o impostor que sabota a nave e mata a tripulação.",
+    "data_criacao": "2018",
+    "link": "https://www.innersloth.com/games/among-us/",
+    "tags": [
+      "Multiplayer",
+      "Dedução Social",
+      "Festa",
+      "Estratégia"
+    ]
+  },
+  {
+    "nome": "Fall Guys",
+    "descricao": "Um jogo de festa battle royale onde feijões coloridos competem em minijogos de plataforma e obstáculos malucos.",
+    "data_criacao": "2020",
+    "link": "https://www.fallguys.com/",
+    "tags": [
+      "Battle Royale",
+      "Plataforma",
+      "Festa",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "No Man's Sky",
+    "descricao": "Explore um universo de mais de 18 quintilhões de planetas, focado em exploração, sobrevivência, comércio e combate espacial.",
+    "data_criacao": "2016",
+    "link": "https://www.nomanssky.com/",
+    "tags": [
+      "Exploração",
+      "Sandbox",
+      "Ficção Científica",
+      "Mundo Aberto"
+    ]
+  },
+  {
+    "nome": "Civilization VI",
+    "descricao": "Lidere sua civilização desde a Idade da Pedra até a Era Espacial, buscando dominação global através de ciência, cultura ou força militar.",
+    "data_criacao": "2016",
+    "link": "https://civilization.com/",
+    "tags": [
+      "Estratégia 4X",
+      "Turnos",
+      "Histórico",
+      "Simulação"
+    ]
+  },
+  {
+    "nome": "Crusader Kings III",
+    "descricao": "Um simulador de dinastia medieval onde você deve guiar sua família através de gerações de intrigas, guerras e casamentos.",
+    "data_criacao": "2020",
+    "link": "https://www.crusaderkings.com/",
+    "tags": [
+      "Grande Estratégia",
+      "RPG",
+      "Simulação",
+      "Medieval"
+    ]
+  },
+  {
+    "nome": "Euro Truck Simulator 2",
+    "descricao": "Experimente a vida de um caminhoneiro na Europa, transportando cargas por vastas redes rodoviárias com simulação realista.",
+    "data_criacao": "2012",
+    "link": "https://www.scssoft.com/euro-truck-simulator-2/",
+    "tags": [
+      "Simulação",
+      "Condução",
+      "Relaxante",
+      "Mundo Aberto"
+    ]
+  },
+  {
+    "nome": "Kerbal Space Program",
+    "descricao": "Gerencie um programa espacial para a raça alienígena Kerbal, construindo foguetes e naves capazes de voar e explorar o universo.",
+    "data_criacao": "2015",
+    "link": "https://www.kerbalspaceprogram.com/",
+    "tags": [
+      "Simulação",
+      "Física",
+      "Ciência",
+      "Sandbox"
+    ]
+  },
+  {
+    "nome": "Deep Rock Galactic",
+    "descricao": "Um FPS cooperativo de quatro jogadores onde anões espaciais exploram cavernas geradas proceduralmente, minerando e lutando contra alienígenas.",
+    "data_criacao": "2020",
+    "link": "https://www.deeprockgalactic.com/",
+    "tags": [
+      "Co-op",
+      "FPS",
+      "Mineração",
+      "Ação"
+    ]
+  },
+  {
+    "nome": "RimWorld",
+    "descricao": "Um simulador de colônia de ficção científica impulsionado por uma IA narradora que gera histórias dramáticas e complexas.",
+    "data_criacao": "2018",
+    "link": "https://store.steampowered.com/app/294100/RimWorld/",
+    "tags": [
+      "Simulação",
+      "Estratégia",
+      "Construção de Colônias",
+      "Sandbox"
+    ]
+  },
+  {
+    "nome": "Dota 2",
+    "descricao": "Um MOBA (Multiplayer Online Battle Arena) onde duas equipes de cinco heróis lutam para destruir o 'Ancient' inimigo.",
+    "data_criacao": "2013",
+    "link": "https://www.dota2.com/",
+    "tags": [
+      "MOBA",
+      "Estratégia",
+      "Competitivo",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "Team Fortress 2",
+    "descricao": "Um jogo de tiro em primeira pessoa baseado em classes, conhecido por seu estilo de arte cartunesco e jogabilidade divertida.",
+    "data_criacao": "2007",
+    "link": "https://store.steampowered.com/app/440/Team_Fortress_2/",
+    "tags": [
+      "FPS",
+      "Multiplayer",
+      "Ação",
+      "Comédia"
+    ]
+  },
+  {
+    "nome": "War Thunder",
+    "descricao": "Um jogo de combate MMO que oferece veículos militares da Segunda Guerra Mundial e Guerra Fria, incluindo aviões, tanques e navios.",
+    "data_criacao": "2013",
+    "link": "https://warthunder.com/",
+    "tags": [
+      "Simulação",
+      "Combate Veicular",
+      "Guerra",
+      "MMO"
+    ]
+  },
+  {
+    "nome": "Elite Dangerous",
+    "descricao": "Um simulador espacial de mundo aberto, permitindo que os jogadores explorem uma galáxia vasta e recriada em escala 1:1.",
+    "data_criacao": "2014",
+    "link": "https://www.elitedangerous.com/",
+    "tags": [
+      "Simulação Espacial",
+      "MMO",
+      "Exploração",
+      "Ficção Científica"
+    ]
+  },
+  {
+    "nome": "Pillars of Eternity II: Deadfire",
+    "descricao": "Um RPG isométrico focado em histórias complexas e escolhas morais, ambientado em um arquipélago tropical.",
+    "data_criacao": "2018",
+    "link": "https://www.fig.co/campaigns/deadfire",
+    "tags": [
+      "RPG Clássico",
+      "Fantasia",
+      "Aventura",
+      "Tático"
+    ]
+  },
+  {
+    "nome": "Divinity: Original Sin 2",
+    "descricao": "Um RPG tático com combate profundo em turnos e uma liberdade de escolha sem precedentes, suportando co-op para quatro jogadores.",
+    "data_criacao": "2017",
+    "link": "https://divinityoriginalsin2.com/",
+    "tags": [
+      "RPG Tático",
+      "Co-op",
+      "Fantasia",
+      "Turnos"
+    ]
+  },
+  {
+    "nome": "ARK: Survival Evolved",
+    "descricao": "Sobreviva em uma ilha misteriosa cheia de dinossauros e criaturas primordiais, domando-as e construindo abrigos.",
+    "data_criacao": "2017",
+    "link": "https://playark.com/",
+    "tags": [
+      "Sobrevivência",
+      "Dinossauros",
+      "Mundo Aberto",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "Satisfactory",
+    "descricao": "Explore um planeta alienígena construindo enormes fábricas complexas e totalmente automatizadas.",
+    "data_criacao": "2024",
+    "link": "https://www.satisfactorygame.com/",
+    "tags": [
+      "Construção de Fábricas",
+      "Simulação",
+      "Exploração",
+      "Automação"
+    ]
+  },
+  {
+    "nome": "Portal 2",
+    "descricao": "Um aclamado jogo de quebra-cabeças em primeira pessoa que usa portais para resolver desafios de física, com uma campanha cooperativa inovadora.",
+    "data_criacao": "2011",
+    "link": "https://store.steampowered.com/app/620/Portal_2/",
+    "tags": [
+      "Quebra-Cabeça",
+      "Física",
+      "Co-op",
+      "Ficção Científica"
+    ]
+  },
+  {
+    "nome": "Left 4 Dead 2",
+    "descricao": "Um clássico jogo cooperativo de tiro contra hordas de zumbis, focando em trabalho em equipe e rejogabilidade intensa.",
+    "data_criacao": "2009",
+    "link": "https://store.steampowered.com/app/550/Left_4_Dead_2/",
+    "tags": [
+      "FPS",
+      "Co-op",
+      "Zumbis",
+      "Sobrevivência"
+    ]
+  },
+  {
+    "nome": "The Elder Scrolls V: Skyrim",
+    "descricao": "O Dragão nascido deve derrotar o dragão Alduin e salvar a província de Skyrim. Conhecido por seu vasto mundo aberto e liberdade.",
+    "data_criacao": "2011",
+    "link": "https://elderscrolls.bethesda.net/en/skyrim",
+    "tags": [
+      "RPG",
+      "Mundo Aberto",
+      "Fantasia",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "DOOM (2016)",
+    "descricao": "Um reinício frenético da franquia DOOM, onde o Slayer massacra demônios em Marte e no Inferno com combate acelerado.",
+    "data_criacao": "2016",
+    "link": "https://bethesda.net/en/game/doom",
+    "tags": [
+      "FPS",
+      "Ação Rápida",
+      "Gore",
+      "Ficção Científica"
+    ]
+  },
+  {
+    "nome": "Mass Effect Legendary Edition",
+    "descricao": "A trilogia completa do Comandante Shepard, um épico RPG espacial onde suas escolhas definem o destino da galáxia.",
+    "data_criacao": "2021",
+    "link": "https://www.ea.com/games/mass-effect/mass-effect-legendary-edition",
+    "tags": [
+      "RPG",
+      "Ficção Científica",
+      "Aventura",
+      "Terceira Pessoa"
+    ]
+  },
+  {
+    "nome": "Ori and the Will of the Wisps",
+    "descricao": "Um lindo jogo de plataforma de ação e aventura com elementos Metroidvania, contando uma história emocionante em um mundo deslumbrante.",
+    "data_criacao": "2020",
+    "link": "https://www.orithegame.com/",
+    "tags": [
+      "Plataforma",
+      "Metroidvania",
+      "Aventura",
+      "Indie"
+    ]
+  },
+  {
+    "nome": "Uncharted 4: A Thief's End",
+    "descricao": "Nathan Drake embarca em sua última caçada ao tesouro, forçado a voltar à vida de ladrão para salvar seu irmão.",
+    "data_criacao": "2016",
+    "link": "https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end/",
+    "tags": [
+      "Ação-Aventura",
+      "Cinematográfico",
+      "Tiro em Terceira Pessoa",
+      "Exploração"
+    ]
+  },
+  {
+    "nome": "Bloodborne",
+    "descricao": "Um RPG de ação gótico e aterrorizante da FromSoftware, ambientado na cidade de Yharnam, focando em combate agressivo e rápido.",
+    "data_criacao": "2015",
+    "link": "https://www.playstation.com/en-us/games/bloodborne/",
+    "tags": [
+      "RPG de Ação",
+      "Soulslike",
+      "Terror Gótico",
+      "Combate"
+    ]
+  },
+  {
+    "nome": "Nioh 2",
+    "descricao": "Um RPG de ação hardcore ambientado no Japão Sengoku, misturando história real com elementos sobrenaturais Yokai.",
+    "data_criacao": "2020",
+    "link": "https://www.koeitecmoamerica.com/nioh2/",
+    "tags": [
+      "RPG de Ação",
+      "Soulslike",
+      "Japão Feudal",
+      "Difícil"
+    ]
+  },
+  {
+    "nome": "The Sims 4",
+    "descricao": "O simulador de vida definitivo onde os jogadores criam e controlam Sims em um ambiente virtual de vizinhança.",
+    "data_criacao": "2014",
+    "link": "https://www.ea.com/games/the-sims/the-sims-4",
+    "tags": [
+      "Simulação de Vida",
+      "Sandbox",
+      "Criação",
+      "Casual"
+    ]
+  },
+  {
+    "nome": "Planet Coaster",
+    "descricao": "Crie e gerencie o parque de diversões dos seus sonhos, construindo montanhas-russas detalhadas e personalizando cada detalhe.",
+    "data_criacao": "2016",
+    "link": "https://www.planetcoaster.com/",
+    "tags": [
+      "Simulação",
+      "Construção",
+      "Gerenciamento",
+      "Estratégia"
+    ]
+  },
+  {
+    "nome": "Slay the Spire",
+    "descricao": "Combine jogos de cartas deckbuilding com elementos Roguelike para escalar a Spire e enfrentar inimigos em combates por turnos.",
+    "data_criacao": "2019",
+    "link": "https://store.steampowered.com/app/646570/Slay_the_Spire/",
+    "tags": [
+      "Roguelike",
+      "Deckbuilding",
+      "Estratégia",
+      "Turnos"
+    ]
+  },
+  {
+    "nome": "Returnal",
+    "descricao": "Uma astronauta presa em um loop temporal em um planeta alienígena hostil deve lutar em um shooter roguelike intenso em terceira pessoa.",
+    "data_criacao": "2021",
+    "link": "https://www.playstation.com/en-us/games/returnal/",
+    "tags": [
+      "Roguelike",
+      "Tiro em Terceira Pessoa",
+      "Ficção Científica",
+      "Bullet Hell"
+    ]
+  },
+  {
+    "nome": "Death Stranding",
+    "descricao": "Sam Bridges deve reconectar uma sociedade fragmentada nos Estados Unidos pós-apocalípticos, atuando como um entregador.",
+    "data_criacao": "2019",
+    "link": "https://www.kojimaproductions.jp/en/death-stranding",
+    "tags": [
+      "Aventura",
+      "Mundo Aberto",
+      "Ficção Científica",
+      "Simulação"
+    ]
+  },
+  {
+    "nome": "Days Gone",
+    "descricao": "Jogue como o motociclista fora da lei Deacon St. John em um mundo pós-pandêmico infestado de 'Freakers', criaturas semelhantes a zumbis.",
+    "data_criacao": "2019",
+    "link": "https://www.playstation.com/en-us/games/days-gone/",
+    "tags": [
+      "Ação-Aventura",
+      "Sobrevivência",
+      "Mundo Aberto",
+      "Zumbis"
+    ]
+  },
+  {
+    "nome": "Borderlands 3",
+    "descricao": "Um looter-shooter com bilhões de armas, onde quatro Vault Hunters viajam entre planetas para deter os Calypso Twins.",
+    "data_criacao": "2019",
+    "link": "https://borderlands.com/en-US/borderlands-3/",
+    "tags": [
+      "Looter Shooter",
+      "FPS",
+      "RPG",
+      "Co-op"
+    ]
+  },
+  {
+    "nome": "Just Cause 4",
+    "descricao": "Rico Rodriguez retorna para causar o caos em Solís, usando seu traje planador, pára-quedas e gancho para ação explosiva.",
+    "data_criacao": "2018",
+    "link": "https://justcause.square-enix-games.com/en-us",
+    "tags": [
+      "Ação",
+      "Sandbox",
+      "Mundo Aberto",
+      "Destruição"
+    ]
+  },
+  {
+    "nome": "Devil May Cry 5",
+    "descricao": "Aclamado jogo de hack and slash focado em combate estiloso e combos complexos, com três personagens jogáveis distintos.",
+    "data_criacao": "2019",
+    "link": "https://www.devilmaycry5.com/",
+    "tags": [
+      "Ação",
+      "Hack and Slash",
+      "Estilo",
+      "Fantasia Urbana"
+    ]
+  },
+  {
+    "nome": "Star Wars Jedi: Fallen Order",
+    "descricao": "Um Padawan sobrevivente da Ordem 66 deve terminar seu treinamento e reconstruir a Ordem Jedi enquanto é caçado pelo Império.",
+    "data_criacao": "2019",
+    "link": "https://www.ea.com/games/starwars/jedi/fallen-order",
+    "tags": [
+      "Ação-Aventura",
+      "Plataforma",
+      "Star Wars",
+      "Combate"
+    ]
+  }
+]
