@@ -101,23 +101,25 @@ main {
 }
 
 article {
-    background: none; /* Sem cor de fundo */
-    border-radius: 0; /* Sem bordas arredondadas */
-    padding: 0; /* Remove o padding */
-    padding: 0 1rem; /* Espaçamento interno nos lados */
+    /* Efeito Glassmorphism */
+    background: rgba(232, 234, 237, 0.1); /* Fundo branco com baixa opacidade */
+    backdrop-filter: blur(10px); /* Desfoque para o efeito de vidro fosco */
+    -webkit-backdrop-filter: blur(10px); /* Suporte para Safari */
+    border-radius: 1rem; /* Bordas arredondadas */
+    border: 1px solid rgba(232, 234, 237, 0.2); /* Borda sutil e translúcida */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidade */
+    padding: 1.5rem; /* Espaçamento interno */
     margin-bottom: 1.25rem; /* Margem inferior */
-    box-shadow: none; /* Sem sombra */
-    transition: background-color 0.3s ease, border-bottom-color 0.3s ease; /* Transição suave */
-    border-bottom: 1px solid var(--bg-color); /* Borda inferior */
-    padding-bottom: 1.5rem; /* Espaçamento interno inferior */
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease; /* Transição suave */
+    transition: background 200ms;
 }
 
-
 article:hover {
-    border: 1px solid var(--primary-color);
-    border-radius: 1rem;
+    background: rgba(232, 234, 237, 0.2);
+    border-color: var(--primary-color); /* Muda a cor da borda no hover */
     transform: scale(1.01); /* Aumenta ligeiramente o tamanho ao passar o mouse */
     cursor: pointer; /* Muda o cursor para uma mão */
+    box-shadow: 0 0 15px rgba(119, 0, 255, 0.3); /* Sombra colorida no hover */
 }
 
 article h2 {
@@ -261,4 +263,8 @@ article a:hover {
 .card-animation {
     opacity: 0; /* Começa invisível para a animação funcionar corretamente */
     animation: fadeInUp 0.5s ease-out forwards;
+}
+
+.Tags {
+    text-align: right;
 }

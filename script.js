@@ -36,6 +36,7 @@ function renderizarCards(dados) {
         <p>${dado.data_criacao}</p>
         <p>${dado.descricao}</p>
         <a href="${dado.link}" target="_blank">Página do jogo</a>
+        <p class="Tags">Tags: ${dado.tags}</p>
         `
         cardContainer.appendChild(article);
     });
